@@ -1,6 +1,6 @@
 ## Automatic SPM batches creator (Student's t-test)
 
-** NOTE: All of the scripts are created for a particular experiment, but can be extended later. These are work files which are, in most cases, working only for a specified datasets. More comments and further explanation will be given soon. **
+**NOTE: All of the scripts are created for a particular experiment, but can be extended later. These are work files which are, in most cases, working only for a specified datasets. More comments and further explanation will be given soon.**
 
 - For Jacek's project (with two tasks), but can be customized for any other project
 
